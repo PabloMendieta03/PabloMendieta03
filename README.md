@@ -1,87 +1,104 @@
-![readmebox](/assets/readmebox.svg)
+<div align="center">
+<h1 align="center">Hola, Soy Pablo Mendieta 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px"> Hi, I’m Pablo MR
-- 💼 I'm a Matematician Engeriing
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+## Sobre mi
 
-<div style="display:flex;">
-<a href="https://www.python.org" target="_blank" style="margin-right:5px">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
+
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Básico</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-<h2>Projects</h2>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
 
-<b>Web/Full Stack projects</b> <br>
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
-<a href="https://github.com/Rizsyad/texteditorwebased"> <img src="https://img.shields.io/badge/texteditorwebased-000000?style=flat" alt="texteditorwebased" /></a>
+### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Rizsyad/BasicRest"> <img src="https://img.shields.io/badge/BasicRest-000000?style=flat" alt="BasicRest" /></a>
-
-<a href="https://github.com/Rizsyad/react-todo-list"> <img src="https://img.shields.io/badge/React TodoList-000000?style=flat" alt="react-todo-list" /></a>
-
-<a href="https://github.com/Rizsyad/destin"> <img src="https://img.shields.io/badge/Destin-000000?style=flat" alt="Destin" /></a>
-
-
-
-
-<b>Cybersecurity projects</b> <br>
-
-<a href="https://github.com/Rizsyad/diosqli"> <img src="https://img.shields.io/badge/-💉&nbsp;&nbsp;DIOS&nbsp;SQLI-000000?style=flat" alt="DIOS SQLI" /></a>
-
-<a href="https://github.com/Rizsyad/autosqli"> <img src="https://img.shields.io/badge/-💉&nbsp;&nbsp;Auto&nbsp;SQLI-000000?style=flat" alt="Auto SQLI" /></a>
-
-<a href="https://github.com/Rizsyad/spamming-phising"> <img src="https://img.shields.io/badge/Spamming&nbsp;Phising-000000?style=flat" alt="spamming-phising" /></a>
-
-<a href="https://rizsyad.github.io/bb-reports-generator/"> <img src="https://img.shields.io/badge/Bug Bounty&nbsp;Reports Generator-000000?style=flat" alt="bb-reports-generator" /></a>
-
-
-
-
-<b>Other projects</b> <br>
-
-<a href="https://github.com/Rizsyad/HtmlFormatIndonesian"> <img src="https://img.shields.io/badge/HtmlFormatIndonesian-000000?style=flat" alt="HtmlFormatIndonesian" /></a>
-
-<a href="https://github.com/Rizsyad/Codeigniter-4-CRUD-generator"> <img src="https://img.shields.io/badge/Codeigniter 4 CRUD generator-000000?style=flat" alt="Codeigniter-4-CRUD-generator" /></a>
-
-<a href="https://github.com/Rizsyad/ctf-assistant"> <img src="https://img.shields.io/badge/Bot Discord CTF Assistant-000000?style=flat" alt="Bot Discord CTF Assistant" /></a>
-
-
-
-
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/rizsyad/github-readme-stats"><img alt="Rizsyad Github Stats" src="https://github-readme-stats.vercel.app/api?username=rizsyad&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizsyad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Rizsyad" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>Github Tropy Stats</b></summary>
-  <br/>
-   <a href="https://github.com/rizsyad"> <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=algolia&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" /></a>
-  <br/>
-</details>
-
-
-<details>
-  <summary><b>Visitor Count</b></summary>
-  <br/>
-   <a href="https://github.com/Rizsyad">
-        <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
-    </a>
-  <br/>
-</details>
-
------
-Credits: [Rizsyad AR](https://github.com/Rizsyad)
-
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
